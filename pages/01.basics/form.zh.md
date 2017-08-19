@@ -1,7 +1,8 @@
 ---
 title: Basics
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ### Chapter 1
