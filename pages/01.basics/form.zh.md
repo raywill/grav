@@ -10,3 +10,5 @@ taxonomy:
 # Basics
 
 Discover the **basic** principles
+
+My Glorry
