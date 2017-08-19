@@ -4,6 +4,9 @@ taxonomy:
     category: docs
 ---
 
+白日依山尽，黄河入海流
+欲穷千里目，更上一层楼
+
 Lorem markdownum fama iusserat **sit trunca**, isto et quid dolens Aeetias.
 Indice [pater in](http://www.mozilla.org/) constitit *munus* voces bidentum
 officium te utrique animaeque multum dedit. Coimus premens? Flet hospes ad
