@@ -1,0 +1,6 @@
+bin
+cache
+logs
+tmp
+vendor
+*.swp
