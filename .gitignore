@@ -4,3 +4,4 @@ logs
 tmp
 vendor
 *.swp
+user/plugins
