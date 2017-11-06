@@ -14,5 +14,6 @@ content:
             - _pricing
             - _testimonials
             - _text
+            - _timeline
             - _news
 ---
