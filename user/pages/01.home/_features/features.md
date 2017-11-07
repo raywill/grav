@@ -2,16 +2,28 @@
 title: 特色
 alias: features
 features:
-  - title: 内容变现
+  - title: 更懂运营
+    icon: linkedin
+    subtitle: Operation
+    text: 根据业内多位资深运营的需求定向开发，天生拥有强大的营销基因
+  - title: 自主建站
     icon: pen
-    subtitle: Money
-    text: 专注内容付费的技术服务商，一键实现内容变现，让您一分钟拥有自己的知识店铺
-  - title: 分销传播
+    subtitle: Site
+    text: 霸道运营必选，数据独立，0 抽佣，100% 站点所有权
+  - title: 流量闭环
+    icon: spinner5
+    subtitle: Circle
+    text: 从种子用户裂变，到个人号沉淀，再到社群建立，公众号变现。打通流量闭环
+  - title: 营销插件
+    icon: lock
+    subtitle: Plugin
+    text: 返利、阅读码、二维码裂变等刀刀见血的营销插件支持
+  - title: 无缝升级
     icon: thunderbolt
-    subtitle: Distribution Network
-    text: 通过互联网将供应商与经销商有机地联系在一起,为企业的业务经营及与贸易伙伴的合作提供了一种全新的模式
+    subtitle: Upgrade
+    text: 不懂 IT 也能无缝升级，为用户提供绝佳的部署、升级方案
   - title: 微信互动
     icon: heart
     subtitle: Wechat Interactive
-    text: 充分挖掘海量微信关系链，保证了绝对熟人的交互，使朋友圈内容形成了“信任背书”。
+    text: 充分挖掘海量微信关系链，朋友圈信任背书。
 ---

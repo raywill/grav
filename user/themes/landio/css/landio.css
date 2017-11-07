@@ -4032,6 +4032,7 @@ a.bg-danger:focus, a.bg-danger:hover {
 .section-pricing,
 .section-testimonials,
 .section-text,
+.section-timeline,
 .section-signup {
   padding-top: 2.8125rem; }
   @media (min-width: 48em) {
@@ -4040,6 +4041,7 @@ a.bg-danger:focus, a.bg-danger:hover {
     .section-pricing,
     .section-testimonials,
     .section-text,
+    .section-timeline,
     .section-signup {
       padding-top: 5.625rem; } }
 
@@ -4047,6 +4049,7 @@ a.bg-danger:focus, a.bg-danger:hover {
 .section-pricing,
 .section-text,
 .section-news,
+.section-timeline,
 .section-signup {
   padding-bottom: 2.8125rem; }
   @media (min-width: 48em) {
@@ -4054,6 +4057,7 @@ a.bg-danger:focus, a.bg-danger:hover {
     .section-pricing,
     .section-text,
     .section-news,
+    .section-timeline,
     .section-signup {
       padding-bottom: 5.625rem; } }
 
@@ -4442,7 +4446,7 @@ h3 {
   border: 0 none; }
   @media (min-width: 48em) {
     .section-features .card {
-      margin-bottom: 0; } }
+      margin-bottom: 3em; } }
 .section-features .card-block {
   padding: 0; }
   @media (min-width: 48em) {

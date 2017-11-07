@@ -13,7 +13,7 @@ content:
             - _video
             - _pricing
             - _testimonials
-            - _text
             - _timeline
             - _news
+            - _text
 ---
